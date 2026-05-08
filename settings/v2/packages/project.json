@@ -1,0 +1,27 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "fitHeight": false,
+      "width": 720,
+      "height": 1280
+    }
+  },
+  "physics": {
+    "collisionMatrix": {
+      "0": 0,
+      "1": 6,
+      "2": 6
+    },
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "FlyingArrow"
+      },
+      {
+        "index": 2,
+        "name": "InsertedArrow"
+      }
+    ]
+  }
+}
